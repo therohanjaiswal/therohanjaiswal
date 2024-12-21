@@ -1,3 +1,6 @@
+<!--Ideas-->
+<!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card -->
+<!--https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid-->
 ![MasterHead](https://martinschoombee.com/wp-content/uploads/2020/05/linkedin-banner-left-right-brain.png)
 <h1 align="center">Hi 👋, I'm Rohan Jaiswal</h1>
 <h3 align="center">A passionate Machine Learning and Data Science Engineer from India <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8" width="30px">  </h3> 
@@ -23,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therohanjaiswal&show_icons=true&locale=en&layout=compact" alt="therohanjaiswal"/></p>
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=therohanjaiswal&" alt="therohanjaiswal" width="400"/></p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=therohanjaiswal&show_icons=true&locale=en" alt="therohanjaiswal" height="166"/></p> 
-
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="therohanjaiswal" height="166"/></p>  -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -57,7 +60,7 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therohanjaiswal" alt="therohanjaiswal" /></a> </p>-->
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee therohanjaiswal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee therohanjaiswal" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee therohanjaiswal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee therohanjaiswal" /></a></p><br><be>
 
 <!--
 **therohanjaiswal/therohanjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
