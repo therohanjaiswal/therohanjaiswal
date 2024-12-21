@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therohanjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="therohanjaiswal" /> </p>
 <!-- <p align="left"> <a href="https://twitter.com/therohanjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/therohanjaiswal?logo=twitter&style=for-the-badge" alt="therohanjaiswal" /></a> </p> -->
 
-- 🔭 I’m currently working on **Generative AI in language and image domain.**
+- 🔭 I’m currently working on **Language and Visual GenAI**
 - 🎓 Computer Science PostGraduate from **IIT Guwahati**
 - 💬 Ask me about **Machine Learning and Data Science**
 - 📫 How to reach me **therohanjaiswal@gmail.com**
