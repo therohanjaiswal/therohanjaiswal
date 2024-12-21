@@ -12,8 +12,8 @@
 - 💬 Ask me about **Machine Learning and Data Science**
 - 📫 How to reach me **therohanjaiswal@gmail.com**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1BID7fK-jZfc1rDCPCRQP9Gk7iADkSKTN/view?usp=sharing)
-- 🙂 Words that describes me - **Self Motivated, Ambitious, Perfectionist**
-- ❤️ Love photography :camera:, cinematography :video_camera:, poetry :black_nib: and art :art:
+- 🙂 Words that describes me - **Self Motivated, Ambitious**
+- ❤️ Love photography :camera:, cinematography :video_camera:, and art :art:
 - ⚡ Fun fact **I think I am funny**
 <!--
 - :open_file_folder: Some of the list of my repositories 
