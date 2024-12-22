@@ -2,7 +2,7 @@
 <!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card -->
 <!--https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid-->
 ![MasterHead](https://martinschoombee.com/wp-content/uploads/2020/05/linkedin-banner-left-right-brain.png)
-<h1 align="center">Hi 👋, I'm Rohan Jaiswal</h1>
+<h1 align="center">Hi there👋, I'm Rohan!</h1>
 <h3 align="center">A passionate Machine Learning and Data Science Engineer from India <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8" width="30px">  </h3> 
 <h4 align="left">Transforming data into insight, and models into impact—because every algorithm tells a story, and every dataset holds the key to innovation. 🚀📊</h3> 
 
